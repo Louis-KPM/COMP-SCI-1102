@@ -1,0 +1,7 @@
+% Louis Parry-Mills 08/08/2022
+
+weight  |height  |BMI       
+95.0     1.94     25.24
+66.0     1.20     45.83
+37.0     0.94     41.87
+1000     0        "Height cannot be == 0"

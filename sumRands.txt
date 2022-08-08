@@ -1,0 +1,10 @@
+Louis Parry-Mills 08/08/2022
+
+The sumRands script could produce a minimum value of 5 and a maximum value
+of 50.
+
+Given that it is equivalent to rolling 5 d10s and summing the rolls, the
+results will be in a distribution that approaches a normal curve. So those
+minimum and maximum values will occur rarely.
+
+The average will be ~27-28.
